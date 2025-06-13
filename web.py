@@ -27,7 +27,7 @@ def clear_flagged():
     return [], [], ""
 
 
-with gr.Blocks() as demo:
+with gr.Blocks() as webserver:
     gr.Markdown("## Automatic identification of responsible authorities for citizen appeals")
 
     with gr.Row():
@@ -82,11 +82,4 @@ with gr.Blocks() as demo:
 
 
 if __name__ == "__main__":
-    demo.queue(api_open=True).launch()
-    client = Client(demo.local_url)
-    result = client.predict(
-          description="Hello!!",
-          category="Verkehr",
-          state="Sachsen",
-          api_name="/classify_input"
-    )
+    webserver.queue(api_open=True).launch()
