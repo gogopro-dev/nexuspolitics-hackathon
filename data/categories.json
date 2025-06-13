@@ -1,0 +1,22 @@
+{
+  "categories": [
+    "Verkehr",
+    "Bildung",
+    "Migration",
+    "Umwelt",
+    "Gesundheit",
+    "Wirtschaft",
+    "Digitalisierung",
+    "Sicherheit"
+  ],
+  "descriptions": {
+    "Verkehr": "Verkehr und Transportfragen",
+    "Bildung": "Bildungsbezogene Anliegen",
+    "Migration": "Themen der Zuwanderung und Integration",
+    "Umwelt": "Umweltfragen",
+    "Gesundheit": "Gesundheit und Gesundheitswesen",
+    "Wirtschaft": "Wirtschaftliche Bedenken",
+    "Digitalisierung": "Themen der digitalen Transformation",
+    "Sicherheit": "Sicherheit und Sicherheitsprobleme"
+  }
+}
