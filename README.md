@@ -47,8 +47,8 @@ in which local authorities are assigned to the issues from wrong regions / topic
 Hey, there is no commit history but the thanks should be given where its due, to all people who contributed to this
 repository:
 
-Hlib Zabudko (me)
-Eriks Spaks 
-Sergey Sarkisyan
-Nurzhan Zhukesh
+`Hlib Zabudko` (me) <br>
+`Eriks Spaks` <br>
+`Sergey Sarkisyan` <br>
+`Nurzhan Zhukesh`
 
