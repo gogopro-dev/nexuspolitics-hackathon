@@ -41,8 +41,7 @@ The solution from the problem is in the folder `processed_solution`
 
 ## Evaluation Metric
 Impossible to calculate because of a broken dataset (train, validate) since the authority assigned does not come from 
-the federal state defined in the field `state` (explained thoroughly in the presentation), 
-in which local authorities are assigned to the issues from wrong regions / topic.
+the federal state defined in the field `state` and may or may not have a mismatched category. (explained thoroughly in the presentation).
 
 ### Credits
 Hey, there is no commit history but the thanks should be given where its due, to all people who contributed to this
