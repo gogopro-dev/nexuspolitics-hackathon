@@ -26,7 +26,7 @@ The guide for using it is located in the directory in the `csv_preprocessor/read
 
 1. Install Dependencies (it is advised to use a virtual environment)
 ```shell
-pip3 intsall -r requirements.txt
+pip3 install -r requirements.txt
 ```
 2. Run webui (It will take quite a long time on a cold start):
 ```shell
@@ -42,4 +42,13 @@ The solution from the problem
 ## Evaluation Metric
 Impossible to calculate because of a broken dataset (train, validate) (explained thoroughly in the presentation), 
 in which local authorities are assigned to the issues from wrong regions / topic.
+
+### Credits
+Hey, there is no commit history but the thanks should be given where its due, to all people who contributed to this
+repository:
+
+Hlib Zabudko (me)
+Eriks Spaks 
+Sergey Sarkisyan
+Nurzhan Zhukesh
 
