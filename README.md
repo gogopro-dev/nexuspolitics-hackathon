@@ -34,3 +34,12 @@ python3 main.py
 ```
 
 Now you can open the webui on localhost: http://localhost:7860
+
+# Formal solution as required in the problem statement
+The solution from the problem 
+
+
+## Evaluation Metric
+Impossible to calculate because of a broken dataset (train, validate) (explained thoroughly in the presentation), 
+in which local authorities are assigned to the issues from wrong regions / topic.
+
