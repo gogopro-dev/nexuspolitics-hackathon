@@ -36,7 +36,7 @@ python3 main.py
 Now you can open the webui on localhost: http://localhost:7860
 
 # Formal solution as required in the problem statement
-The solution from the problem 
+The solution from the problem is in the folder `processed_solution`
 
 
 ## Evaluation Metric
