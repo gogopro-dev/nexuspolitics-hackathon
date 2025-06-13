@@ -40,7 +40,8 @@ The solution from the problem is in the folder `processed_solution`
 
 
 ## Evaluation Metric
-Impossible to calculate because of a broken dataset (train, validate) (explained thoroughly in the presentation), 
+Impossible to calculate because of a broken dataset (train, validate) since the authority assigned does not come from 
+the federal state defined in the field `state` (explained thoroughly in the presentation), 
 in which local authorities are assigned to the issues from wrong regions / topic.
 
 ### Credits
